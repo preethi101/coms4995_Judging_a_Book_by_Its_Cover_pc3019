@@ -3,7 +3,7 @@
 ## By: Preethi Chandirasekeran
 
 Link to Presentation Video https://youtu.be/VaFsqBOc19U  <br>
-This repository contains the following <br>
+This repository contains the following <br> 
 
 Final_Project_Web_Scraping_and_Classification_pc3019.ipynb: This notebook is the first part of the code for this project. It contains the dataset creation and implementation of the genre classification models <br><br>
 Final_Project_Web_Scraping_and_Classification_pc3019.pdf: This is the pdf version of Final_Project_Web_Scraping_and_Classification_pc3019.ipynb <br><br>
